@@ -1,4 +1,6 @@
-### Hi! 👋 I'm Lutfi.
+<p align="center"><a href="https://lutfirz.github.io"><img width="80%" alt="Hello, I'm Lutfi. I do open source" src="./intro.png" /></a></p>
+
+<br />
 
 A fresh graduate in Telecommunications Engineering who have a strong foundation in networking and telecommunications, enjoy to explore web development specifically in backend systems.
 
