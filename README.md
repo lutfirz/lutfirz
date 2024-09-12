@@ -10,7 +10,7 @@ A fresh graduate in Telecommunications Engineering who have a strong foundation 
 <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
 <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
-<a href="https://expressjs.com/"><img align="left" alt="ExpressJS" title="ExpressJS" width="21px" src="https://e7.pngegg.com/pngimages/846/87/png-clipart-website-development-express-js-node-js-javascript-npm-vue-js-text-trademark.png" /></a>
+<a href="https://expressjs.com/"><img align="left" alt="ExpressJS" title="ExpressJS" width="21px" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" /></a>
 <a href="https://www.mongodb.com/"><img align="left" alt="MongoDB" title="MongoDB" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/c754e642ab1eb7950904643f8393ee7d115a463f/images/svg/mongodb.svg" /></a>
 <br>
 <br>
